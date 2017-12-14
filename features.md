@@ -85,6 +85,6 @@
       
       ![OpenMRS Android Client synced patients][synced_patients]
       
-      [synced_patients]: assets/openmrs_android_offline_client_synced_patients.png
+      [synced_patients]: assets/openmrs_android_client_offline_synced_patients.png
 
 
