@@ -75,7 +75,7 @@
       
        ![OpenMRS Android Client merge patients][merge]
        
-       [merge]: assets/openmrs_android_client_merge_patients.png
+       [merge]: assets/openmrs_android_client_offline_merge_patients.png
 
 
    2. Synchronizing Patients
@@ -85,6 +85,6 @@
       
       ![OpenMRS Android Client synced patients][synced_patients]
       
-      [synced_patients]: assets/openmrs_android_client_synced_patients.png
+      [synced_patients]: assets/openmrs_android_offline_client_synced_patients.png
 
 
