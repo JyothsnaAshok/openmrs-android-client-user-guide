@@ -65,7 +65,7 @@
       
       [registration]: assets/openmrs_android_client_offline_registration.png
       
-      After entering all the details press the "Register Patient" button at the bottom. After successful registration of the patient you       will be taken to a page which shows the summary view of the patient. While working offline the patient's ID will be `null`.             Whenever the client will get connected to the internet it will assign an ID to the patient.
+      After entering all the details press the "Register Patient" button at the bottom. After successful registration of the patient you       will be taken to a page which shows the summary view of the patient. While working offline the patient's ID will be `NULL`.             Whenever the client will get connected to the internet it will assign an ID to the patient.
       
       ![OpenMRS Android Client patient summary][summary]
     
