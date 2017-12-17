@@ -41,7 +41,7 @@
    
 * ### Working Offline
     <!--Explain a bigger picture of sync on/off feature and how to switch-->
-     The openMRS android client can also be sucessfully used in areas with limited connectivity. As you open the OpenMRS Android Client      the login screen appears. Here you may provide your login credentials and a location (e.g. "Registration Desk")
+     The openMRS android client can also be sucessfully used in areas with limited connectivity. As you open the OpenMRS Android Client the login screen appears. Here you may provide your login credentials and a location (e.g. "Registration Desk")
      To use the client in the offline mode you may press the option just beside the word "online" to switch to the offline mode.
     
    ![OpenMRS Android Client Offline login screen][login]
@@ -65,13 +65,13 @@
       
       [registration]: assets/openmrs_android_client_offline_registration.png
       
-      After entering all the details press the "Register Patient" button at the bottom. After successful registration of the patient you       will be taken to a page which shows the summary view of the patient. While working offline the patient's ID will be `NULL`.             Whenever the client will get connected to the internet it will assign an ID to the patient.
+      After entering all the details press the "Register Patient" button at the bottom. After successful registration of the patient you will be taken to a page which shows the summary view of the patient. While working offline the patient's ID will be `NULL`. Whenever the client will get connected to the internet it will assign an ID to the patient.
       
       ![OpenMRS Android Client patient summary][summary]
     
       [summary]: assets/openmrs_android_client_offline_patient_details.png
       
-      If a similar patient is found on the server, the client will prompt you with an option to either "merge" the patients or "register       as new".
+      If a similar patient is found on the server, the client will prompt you with an option to either "merge" the patients or "register as new".
       
        ![OpenMRS Android Client merge patients][merge]
        
